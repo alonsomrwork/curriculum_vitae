@@ -42,7 +42,8 @@ elif pagina == "Información Personal":
     <b> Nacionalidad:</b> Chilena  <br>
     <b> Ciudad de residencia:</b> Valparaíso, Chile  <br>
     <b> Teléfono:</b> +56 9 8807 9161  <br>
-    <b> Correo:</b> alonsosimon.m.r@gmail.com  
+    <b> Correo:</b> alonsosimon.m.r@gmail.com <br>
+    <a href="https://www.linkedin.com/in/alonso-mercado-rojel-35118b2b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvSYZZ2lMSHKOzAz49muM6g%3D%3D" target="_blank"><b>Perfil de LinkedIn</b></a>
     </div>
     """, unsafe_allow_html=True)
 
@@ -134,5 +135,6 @@ elif pagina == "Habilidades":
 <b> Idiomas:</b> Inglés B1.
 </div>
 """, unsafe_allow_html=True)
+
 
 
