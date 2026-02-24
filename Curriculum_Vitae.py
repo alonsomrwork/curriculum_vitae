@@ -76,7 +76,7 @@ elif pagina == "Experiencia":
 Empresa especializada en recuperación de minerales en relaves y soluciones tecnológicas para la minería.  
 
 La práctica profesional se realizó en <a href="https://www.key-process.com/" target="_blank"><b>KeyProcess SPA</b></a>, donde desarrollé dashboards interactivos para análisis financiero y operacional, automaticé reportes en línea utilizando Python y herramientas Office, apoyé en la gestión de operaciones y análisis de costos, y adquirí experiencia en el uso del portal SAP Ariba para gestión de proveedores.
-Esta tuvo una duración de 320 horas.
+La práctica tuvo una duración de 320 horas.
 </div>
 """, unsafe_allow_html=True)
 
@@ -86,7 +86,7 @@ Esta tuvo una duración de 320 horas.
 <div class="justified-text">
 
 Durante la práctica industrial en la <a href="https://transformaciondigital.usm.cl/dtd/" target="_blank"><b>Dirección de Transformación Digital</b></a> de la Universidad Técnica Federico Santa María, elaboré reportes estratégicos en Power BI, participé en la digitalización y consolidación de bases de datos institucionales y apoyé procesos de transformación digital.
-Esta tuvo una duración de 320 horas.
+La práctica tuvo una duración de 320 horas.
 </div>
 """, unsafe_allow_html=True)
 
@@ -134,4 +134,5 @@ elif pagina == "Habilidades":
 <b> Idiomas:</b> Inglés B1.
 </div>
 """, unsafe_allow_html=True)
+
 
